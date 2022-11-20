@@ -1,3 +1,4 @@
+print("hello")
 def menu():
         strs = ('Enter 1 for addition\n'
                 'Enter 2 for subtaction\n'
